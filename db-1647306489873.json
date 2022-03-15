@@ -1,0 +1,25 @@
+{
+  "student": [
+    {
+      "id": "20k660042",
+      "name": "Ta Huong Giang",
+      "birthday": "06/02",
+      "phoneNumber": "0982255660",
+      "email": "giang@gmail.com"
+    },
+    {
+      "id": "20200012",
+      "name": "Do Hoang Anh",
+      "birthday": "16/03",
+      "phoneNumber": "0986595431",
+      "email": "anh@gmail.com"
+    },
+    {
+      "id": "20205191",
+      "name": "Nguyen Phuong Quang",
+      "birthday": "29/11/2002",
+      "phoneNumber": "0329715851",
+      "email": "quang@gmail.com"
+    }
+  ]
+}
